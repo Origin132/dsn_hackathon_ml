@@ -50,7 +50,7 @@ The notebook recorded the following range and mean for the final ensemble predic
 
 ## Reproducing the Analysis
 
-The notebook was developed in a Kaggle/Jupyter environment. To reproduce it:
+The notebook was developed in a Kaggle environment. To reproduce it:
 
 1. Open `DSN_Hackathon_ML.ipynb` in Jupyter, Kaggle, or another compatible notebook environment.
 2. Place the competition `train.csv` and `test.csv` files in the expected input location.
